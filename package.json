@@ -19,6 +19,8 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
+    "elm-format": "^0.8.5",
+    "elm-test": "^0.19.1-revision9",
     "vite": "^3.0.2",
     "vite-plugin-elm": "^2.7.2"
   }
